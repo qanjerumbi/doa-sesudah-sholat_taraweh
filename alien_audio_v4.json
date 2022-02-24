@@ -1,8 +1,8 @@
 {
   "Ads": [
     {
-      "select_main_ads": "xxADMOBxx",
-      "select_backup_ads":"xxAPPLOVIN-Axx",
+      "select_main_ads": "xxDMOBxx",
+      "select_backup_ads":"xxPPLOVIN-Axx",
       "main_ads_banner": "xxca-app-pub-5186865206665538/8039136032xx",
       "main_ads_intertitial":"xxca-app-pub-5186865206665538/5412972696xx",
       "backup_ads_banner":"xxd14e5453ee7d75a0xxx",
